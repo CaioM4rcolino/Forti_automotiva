@@ -5,5 +5,5 @@ API REST com GET e POST para simular uma empresa de automóveis, que precisa ter
 **1° - Instalar o Express
 
 -----------------------
-| npm install express |
+ npm install express 
 -----------------------
